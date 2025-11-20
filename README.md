@@ -10,7 +10,6 @@ This project demonstrates how to build a **fully automated, production-grade Azu
 * Virtual Machine Scale Set (VMSS)
 * Apache web server provisioning
 * CPU-based Autoscaling
-* Deployment through Azure DevOps Pipeline
 
 This is the same architecture used in real-world enterprise environments for scalable and resilient web applications.
 
