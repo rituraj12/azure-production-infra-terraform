@@ -50,8 +50,6 @@ A single pipeline run deploys all Azure resources automatically.
 All components of the infrastructure are deployed inside a single resource group for better lifecycle management and cleanup.
 
 
-## 🌐 **Networking Layer**
-
 ### **4. Virtual Network (VNet) + Subnet**
 
 A dedicated Azure VNet isolates the environment.
@@ -79,8 +77,6 @@ The NSG is applied to the subnet and allows only the following inbound traffic:
 
 Everything else is blocked.
 
-
-## 🎛 **Compute Layer**
 
 ### **7. Load Balancer (with Public IP)**
 
