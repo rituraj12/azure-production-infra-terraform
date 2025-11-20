@@ -19,6 +19,7 @@ This is the same architecture used in real-world enterprise environments for sca
 
 Below is the full architecture diagram used in this project:
 
+<img width="900" height="550" alt="Project drawio" src="https://github.com/user-attachments/assets/57fa3d1c-6c13-446a-a77e-8fad78070079" />
 
 
 
